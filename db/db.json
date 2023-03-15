@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Marks1",
+      "email": "otto@gmail.com",
+      "children": false,
+      "permission": true,
+      "id": 0
+    },
+    {
+      "name": "Jacob",
+      "email": "thornton@gmail.com",
+      "children": true,
+      "permission": true,
+      "id": 1
+    },
+    {
+      "name": "Valeri",
+      "email": "yakontekst01@yandex.ru",
+      "children": true,
+      "permission": false,
+      "id": 2
+    },
+    {
+      "name": "Valeri",
+      "email": "pablo@rambler.ru",
+      "children": true,
+      "permission": true,
+      "id": 3
+    }
+  ]
+}
